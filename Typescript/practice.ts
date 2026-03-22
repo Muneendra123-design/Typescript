@@ -1,5 +1,14 @@
-let x = 35
+// let x = 35
+// {
+//     console.log(x)
+// }
+// console.log(x)
+
+const testing = true
 {
-    console.log(x)
+    const test = true
+    console.log(test)
+    console.log(testing)
+
 }
-console.log(x)
+console.log(testing)

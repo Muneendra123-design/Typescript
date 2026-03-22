@@ -37,12 +37,12 @@ let language = "Typescript"
 // 2. whenever you declare a variable using a var keyword it can be re-declared and re-intialised as well
 //3. Hoisting : we can access the variable before it's declaration as well but it will take the value as defined
 //4. It is not mandatory to intialise the value of the variable at the time of dwclaration
-
+//var num2 - //Declaration
 //Re-declaration
 var num1 = 10 //Intialisation
 var num1 = 400
 var num1 = 100
-var  num1 = 3454336
+var  num1 = 3454336 //value of the varaible
 
 console.log(num1)
 
