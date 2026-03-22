@@ -94,6 +94,8 @@ function add(): void{ //This function is not returning anything
 let d = " "
 console.log(d)
 
+console.log(typeof d)  //it gives data type
+
 
 
 
