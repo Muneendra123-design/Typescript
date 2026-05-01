@@ -136,7 +136,9 @@ console.log("AND (&&)", (10>16) && (10>15)) //false
 console.log("NOT (!)", !(10>6)) //false
 console.log("NOT (!)", !(10>15)) //true 
 console.log("NOT (!)", !(10>16)) //true
-console.log("NOT (!)", !(10>15)) //true
+console.log("NOT (!)", !(10>14)) //true 
+
+
 
 
 
